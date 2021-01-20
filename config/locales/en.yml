@@ -85,7 +85,7 @@ en:
     highlightedProperty: Outstanding Property
     locality: Locality
     map: Map
-    monthlyRentalPriceHighSeason: Monthly Price (High Season)
+    monthlyRentalPriceHighSeason: Monthly Price (USD)
     monthlyRentalPriceLowSeason: Monthly Price (Low Season)
     monthlyRentalPriceStandardSeason: Monthly Price (Standard Season)
     operationType: Operation Type
